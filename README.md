@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=sokkomann&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<h3 align="center">안녕하세요 개발자 김민중 입니다.</h3>
+<h3 align="center">안녕하세요 개발자 지망생 김민중 입니다.</h3>
 
 <p align="center">
-  <a href="https://github.com/sokkomann">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="mailto:sokkomann@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.notion.so/YOUR_NOTION_URL_HERE">
+  <a href="https://www.notion.so/">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
   </a>
 </p>
