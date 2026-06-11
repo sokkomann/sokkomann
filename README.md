@@ -6,7 +6,7 @@
   <a href="mailto:sokkomann@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.notion.so/](https://curly-turnover-a7b.notion.site/3744589482ee803a83afd5d154169836">
+  <a href="https://curly-turnover-a7b.notion.site/3744589482ee803a83afd5d154169836">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
   </a>
 </p>
