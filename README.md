@@ -33,7 +33,7 @@
 
 <br>
 
-<h2 align="center">Portfolio Repositories</h2>
+<h2 align="center">Repositories</h2>
 
 <table width="100%">
   <tr>
