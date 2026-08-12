@@ -33,23 +33,4 @@
 
 <br>
 
-<h2 align="center">Repositories</h2>
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><a href="https://github.com/sokkomann/back"><b>back</b></a></td>
-    <td width="25%" align="center"><a href="https://github.com/sokkomann/front"><b>front</b></a></td>
-    <td width="25%" align="center"><a href="https://github.com/sokkomann/gb_back"><b>gb_back</b></a></td>
-    <td width="25%" align="center"><a href="https://github.com/sokkomann/bideo-front"><b>bideo-front</b></a></td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><a href="https://github.com/sokkomann/gg-back"><b>gg-back</b></a></td>
-    <td width="25%" align="center"><a href="https://github.com/sokkomann/front-gg"><b>front-gg</b></a></td>
-    <td width="25%" align="center"><a href="https://github.com/aws-globalgates-kmj/kmj"><b>aws-globalgates-kmj/kmj</b></a></td>
-    <td width="25%" align="center"></td>
-  </tr>
-</table>
-
-<br>
-
 ---
